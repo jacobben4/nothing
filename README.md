@@ -1,2 +1,2 @@
 # nothing
-and empty space
+an empty space
